@@ -25,7 +25,7 @@ PDF-Zipper is a command-line tool that converts your code project into a formatt
 
 1. Clone this repository or download the script:
    ```bash
-   git clone https://github.com/yourusername/pdf-zipper.git
+   git clone https://github.com/sawilove/pdf-zipper.git
    cd pdf-zipper
    ```
 
@@ -93,7 +93,6 @@ python pdf-zipper.py ~/projects/web-app -x "node_modules/,dist/,build/" -e ".js,
 
 ## Notes
 
-- The script automatically excludes itself from the PDF
 - Very large files (>100KB) will be truncated in the output
 - The tool automatically downloads a monospace font for best results
 
