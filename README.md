@@ -18,6 +18,7 @@ PDF-Zipper is a command-line tool that converts your code project into a formatt
 
 - Python 3.6 or higher.
 - Required Python packages:
+  
   - `fpdf2`
   - `pygments`.
 
